@@ -14,6 +14,16 @@ Project based on MVVM architecture along with [provider](https://pub.dev/package
 - [Firebase push notification](https://pub.dev/packages/firebase_messaging) used for push notification.
 - [Google mobile ads](https://pub.dev/packages/google_mobile_ads) used to demonstrate google ads integration.
 
+# App Screenshot
+![Pokemon Splash](/screenshots/splash_screen_high_res_framed.png)
+![All Pokemons](/screenshots/all_pokemons_framed.png)
+![Pokemon Details](/screenshots/poke_details_framed.png)
+![Pokemon Types](/screenshots/poke_types_framed.png)
+![Ghost Type](/screenshots/ghost_type_framed.png)
+![Pokemon Regions](/screenshots/regions_framed.png)
+![Poke Dex](/screenshots/poke_dex_framed.png)
+![Pokemon Trainers Pokemon](/screenshots/trainers-pokemon_framed.png)
+
 ## Getting Started
 To get started with Flutter, Follow the links below.
 
